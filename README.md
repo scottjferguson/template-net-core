@@ -9,8 +9,8 @@
 
 {{application-description}}}
 
-### Folder structure
-(https://gist.github.com/davidfowl/ed7564297c61fe9ab814):
+## Folder structure
+<sub>(https://gist.github.com/davidfowl/ed7564297c61fe9ab814)<sub>
 
 ```
 $/

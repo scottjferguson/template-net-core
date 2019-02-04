@@ -1,3 +1,3 @@
 ## Lib
 
-Things that can **NEVER** exist in a nuget package
+Libraries that your application depends on, which you cannot obtian by way of NuGet
